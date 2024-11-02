@@ -1,0 +1,28 @@
+.body {
+    background: linear-gradient(to right, rgb(0, 255, 0), rgb(0, 0, 255));
+}
+
+
+.mb {
+    background-color: rgb(40, 40, 40);
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    font: bold;
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 540px;
+    cursor: pointer;
+    
+
+
+}
+
+
+.mb:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.5s;
+}
